@@ -28,10 +28,10 @@
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer2"
      inkscape:document-units="px"
-     inkscape:cy="384"
-     inkscape:cx="512"
+     inkscape:cy="384.00001"
+     inkscape:cx="512.00002"
      inkscape:zoom="1.1067708"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -149,11 +149,11 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Title"
-     style="display:none">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#004c52;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5033"
@@ -163,16 +163,22 @@
        y="-1.1368684e-013" />
     <path
        style="fill:#006666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0,578.89796 144.65306,646.32653 1024,477.71429 1024,184.97959 815.02041,127.10204 0,297.79592 Z"
+       d="M 0,686.41796 188.02247,741.19712 1025.8071,603.30488 1024,108.17959 705.69335,6.9326242 0,127.02886 Z"
        id="path5039"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <path
        style="opacity:0.85;fill:#009e91;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0,181.55102 334.36735,62.693878 1024,275.59184 1024,514.61224 767.26531,703.95918 0,559.02041 Z"
+       d="M 0,113.78631 369.605,31.070348 1024,275.59184 1024,565.20989 861.23237,673.23918 0,636.72394 Z"
        id="path5035"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path5931-6"
+       d="M 0,563.29853 435.03712,610.94588 1024,549.30612 1024,175.07591 911.06864,127.91222 0,194.83984 Z"
+       style="display:inline;opacity:0.85;fill:#00cab3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccc"
        style="opacity:0.85;fill:#8bd74f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -401,11 +407,11 @@
     </g>
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Headline"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        y="0"
        x="0"
@@ -461,11 +467,11 @@
          sodipodi:role="line">Let's start with the first set of slides</tspan></text>
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Quote"
-     style="display:none">
+     style="display:none;opacity:0.95999995"
+     sodipodi:insensitive="true">
     <rect
        y="-1.1368684e-013"
        x="0"
@@ -644,11 +650,11 @@
          sodipodi:role="line">- lipsum.com</tspan></text>
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Big Concept"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        y="-1.1368684e-013"
        x="0"
@@ -662,13 +668,13 @@
        inkscape:connector-curvature="0"
        id="path5927-1"
        d="M 0,737.15668 141.75509,768 1024,714.87097 1026,529.31994 786.49335,521.50915 0,569.40158 Z"
-       style="display:inline;opacity:0.85;fill:#006666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="display:inline;opacity:0.85;fill:#009e91;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path5929-0"
        d="M 0,731.07505 887.17156,756.80232 1024,721.15668 1024,553.31995 46.550188,530.89708 0,543.4424 Z"
-       style="display:inline;opacity:0.85;fill:#009e91;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="display:inline;opacity:0.85;fill:#00cab3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccc"
        style="display:inline;opacity:0.85;fill:#8bd74f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -726,7 +732,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Split content (2)"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
