@@ -28,7 +28,7 @@
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="384.00001"
      inkscape:cx="512.00002"
@@ -85,12 +85,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
      transform="translate(0,-284.36216)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Master"
-     ns1:masterSlide="masterSlide">
+     ns1:masterSlide="masterSlide"
+     sodipodi:insensitive="true">
     <rect
        y="284.36215"
        x="0"
@@ -147,6 +147,18 @@
        d="M 1024,919.26363 852.99371,1052.3622 1024,986.10639 Z"
        style="opacity:0.85;fill:#bbe863;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:45px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1020.4293"
+       y="1046.0798"
+       id="text5663"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5665"
+         x="1020.4293"
+         y="1046.0798"
+         ns1:autoText="slideNumber">00</tspan></text>
   </g>
   <g
      style="display:inline"
@@ -684,13 +696,13 @@
     <image
        sodipodi:absref="C:\data\projects\jessyink-templates\Plasma.jpg"
        xlink:href="Plasma.jpg"
-       y="40.658817"
-       x="39.755322"
-       id="image4403"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="949.60938"
        height="470.73883"
-       width="949.60938" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4403"
+       x="39.755322"
+       y="40.658817" />
     <text
        sodipodi:linespacing="125%"
        id="text4278"
@@ -1015,13 +1027,13 @@
     <image
        sodipodi:absref="C:\data\projects\jessyink-templates\Plasma.jpg"
        xlink:href="Plasma.jpg"
-       y="159.92471"
-       x="538.50354"
-       id="image4416"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="450.86124"
        height="450.86118"
-       width="450.86124" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4416"
+       x="538.50354"
+       y="159.92471" />
     <text
        sodipodi:linespacing="125%"
        id="text7200"
@@ -1073,13 +1085,13 @@
     <image
        sodipodi:absref="C:\data\projects\jessyink-templates\Plasma.jpg"
        xlink:href="Plasma.jpg"
-       y="-7.9641582e-014"
-       x="1.4210855e-013"
-       id="image4427"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="1024"
        height="768"
-       width="1024" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4427"
+       x="1.4210855e-013"
+       y="-7.9641582e-014" />
     <text
        sodipodi:linespacing="125%"
        id="text4343"
